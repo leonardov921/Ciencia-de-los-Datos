@@ -1,4 +1,4 @@
-Hora del Día,Condiciones Climáticas,Tipo de Carretera,Límite de Velocidad,Densidad de Tráfico,Tipo de Vehículo,Edad del Conductor
+Hora del Dia,Condiciones Climaticas,Tipo de Carretera,Limite de Velocidad,Densidad de Trafico,Tipo de Vehiculo,Edad del Conductor
 6,Snow,Urban,34,High,Truck,59
 19,Snow,Rural,47,Low,Motorcycle,79
 14,Fog,Urban,67,Low,Car,23
